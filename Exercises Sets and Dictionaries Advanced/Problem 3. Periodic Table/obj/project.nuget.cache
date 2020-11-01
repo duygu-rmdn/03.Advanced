@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AssbqajTn9P0uw/tQup22uOKewhiT6b+J64BPADU1xJJqYbRl2RqDYOlOs0mBRO0rAuDIv2ZS/Qbe/1FNdgN1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercises Sets and Dictionaries Advanced\\Problem 3. Periodic Table\\Problem 3. Periodic Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

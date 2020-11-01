@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPrZAFqgSwRF4b7RNR2duzLOUhaLgGMHsK2SpLYYgQup2ceVUuaahcKzv9Wy8ERuPk5/P+PGOpdhYQ4OdoXtSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Sets and Dictionaries Advanced\\07. SoftUni Party\\07. SoftUni Party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

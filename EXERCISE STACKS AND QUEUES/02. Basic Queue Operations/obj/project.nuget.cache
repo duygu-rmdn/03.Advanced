@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsGHLKIyT6ncIiLdiM6sqCvOwNP68b4MgBuC7ThsPWTRGg6oRhWP8R6YL+r6FP67nGq4ebgM+yfQadYmzjRWWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXERCISE STACKS AND QUEUES\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

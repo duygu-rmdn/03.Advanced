@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\bin\Debug\netcoreapp3.1\Count Uppercase word.exe
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\bin\Debug\netcoreapp3.1\Count Uppercase word.deps.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\bin\Debug\netcoreapp3.1\Count Uppercase word.runtimeconfig.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\bin\Debug\netcoreapp3.1\Count Uppercase word.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\bin\Debug\netcoreapp3.1\Count Uppercase word.dll
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\bin\Debug\netcoreapp3.1\Count Uppercase word.pdb
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\obj\Debug\netcoreapp3.1\Count Uppercase word.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\obj\Debug\netcoreapp3.1\Count Uppercase word.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\obj\Debug\netcoreapp3.1\Count Uppercase word.AssemblyInfo.cs
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\obj\Debug\netcoreapp3.1\Count Uppercase word.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\obj\Debug\netcoreapp3.1\Count Uppercase word.dll
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\obj\Debug\netcoreapp3.1\Count Uppercase word.pdb
+C:\Users\HP\source\repos\FunktionalPrograminf\Count Uppercase word\obj\Debug\netcoreapp3.1\Count Uppercase word.genruntimeconfig.cache

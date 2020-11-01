@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IzRmuYyCkHS3PDxqfkuispDRh5vyiezMpypMoSMsyEjQhLLZZAT3Xe1Pzpmip67f7YYemr+9oq1mdSMsM+KHyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercises Sets and Dictionaries Advanced\\Problem 7.  The V-Logger\\Problem 7.  The V-Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

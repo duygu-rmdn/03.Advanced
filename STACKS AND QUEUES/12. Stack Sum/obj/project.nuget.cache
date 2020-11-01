@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYddSTF8vfTR4Cp23Jdfq3XGV0h2s74HcjvXmmM+8wPQZKZkpcT0D86v+S3Jykb+EwiIgCLgyQsJqZd3GDrflA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\STACKS AND QUEUES\\12. Stack Sum\\2. Stack Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

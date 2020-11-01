@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "znvUrWRYPfXTtFNrscEUewj6U2zZ0IAdgilhqbzF3nzLkE8hgt/fT3zz6xcJdJaUorkahcTmkuvhYayqoE2ogQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXERCISE STACKS AND QUEUES\\05. Fashion Boutique\\05. Fashion Boutique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

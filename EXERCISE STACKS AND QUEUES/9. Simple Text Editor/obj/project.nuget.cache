@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MuUo0Z0kNI3H+bYrK2DdGXo4MH27tFsQfWX+9NS4U+/3N/MtRRFwvFlxc1IWf7yHJsZzzSNuemlQzqaT2DXoFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXERCISE STACKS AND QUEUES\\9. Simple Text Editor\\9. Simple Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

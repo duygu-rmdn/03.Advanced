@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeFeWKL9XX/JJnaRgTBBaPortalNdNbMBPiHD7h2kjWmD6Desz/8gs0oETWel3ED9JHCLRPOwAoSbThzRCeD6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\STACKS AND QUEUES\\7. Hot Potato\\7. Hot Potato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

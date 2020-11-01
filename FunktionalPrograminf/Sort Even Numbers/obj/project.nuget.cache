@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZqkTqiwwWfKpcgTsmzLiirRt9M+b8WQ3QGH4F3BUX3nAspC229wq8J0P33QhhGj172DgRNFHPTjnJuv3C36Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\FunktionalPrograminf\\Sort Even Numbers\\Sort Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

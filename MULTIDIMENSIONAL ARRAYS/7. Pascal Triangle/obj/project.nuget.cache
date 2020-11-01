@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXojUbioXcyMtu9DYWc2CjzYr7w6R+Z1FlCX4XTicdVlit4nyo98cj5BS+l3PJoKFWquc818b13oGFClqVarmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\MULTIDIMENSIONAL ARRAYS\\7. Pascal Triangle\\7. Pascal Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

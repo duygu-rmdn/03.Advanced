@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\bin\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.exe
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\bin\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.deps.json
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\bin\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.runtimeconfig.json
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\bin\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\bin\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.dll
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\bin\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.pdb
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\obj\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\obj\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\obj\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.AssemblyInfo.cs
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\obj\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\obj\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.dll
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\obj\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.pdb
+C:\Users\HP\source\repos\STACKS AND QUEUES\STACKS AND QUEUES- demo\obj\Debug\netcoreapp3.1\STACKS AND QUEUES- demo.genruntimeconfig.cache

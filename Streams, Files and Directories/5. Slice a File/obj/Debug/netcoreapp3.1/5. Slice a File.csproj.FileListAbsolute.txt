@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.exe
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.deps.json
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.json
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.dll
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.pdb
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfo.cs
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.dll
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.pdb
+C:\Users\HP\source\repos\Streams, Files and Directories\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.genruntimeconfig.cache

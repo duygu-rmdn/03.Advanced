@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0+8LmbIqjmM7liIyPDudkGfHfrFbruFIqU/PGB8Dq5BDFqrcrXnf4L/F4CNhjvfrdBx+85stTugzISSOocTbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\MULTIDIMENSIONAL ARRAYS\\6. Jagged-Array Modification\\6. Jagged-Array Modification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

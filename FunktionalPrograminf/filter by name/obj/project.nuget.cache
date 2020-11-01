@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/hsFNAZ1OIg0S9+UMOiTEM/cX1UxxtTeh+KWnY4WAseKXow243Ylz01NPksGzaXOLmicCobvBuo0Qo5OHuRpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\FunktionalPrograminf\\filter by name\\filter by name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\bin\Debug\netcoreapp3.1\1. Primary Diagonal.exe
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\bin\Debug\netcoreapp3.1\1. Primary Diagonal.deps.json
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\bin\Debug\netcoreapp3.1\1. Primary Diagonal.runtimeconfig.json
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\bin\Debug\netcoreapp3.1\1. Primary Diagonal.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\bin\Debug\netcoreapp3.1\1. Primary Diagonal.dll
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\bin\Debug\netcoreapp3.1\1. Primary Diagonal.pdb
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\obj\Debug\netcoreapp3.1\1. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\obj\Debug\netcoreapp3.1\1. Primary Diagonal.AssemblyInfo.cs
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\obj\Debug\netcoreapp3.1\1. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\obj\Debug\netcoreapp3.1\1. Primary Diagonal.dll
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\obj\Debug\netcoreapp3.1\1. Primary Diagonal.pdb
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\1. Primary Diagonal\obj\Debug\netcoreapp3.1\1. Primary Diagonal.genruntimeconfig.cache

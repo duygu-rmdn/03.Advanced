@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\bin\Debug\netcoreapp3.1\Vat.exe
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\bin\Debug\netcoreapp3.1\Vat.deps.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\bin\Debug\netcoreapp3.1\Vat.runtimeconfig.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\bin\Debug\netcoreapp3.1\Vat.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\bin\Debug\netcoreapp3.1\Vat.dll
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\bin\Debug\netcoreapp3.1\Vat.pdb
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\obj\Debug\netcoreapp3.1\Vat.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\obj\Debug\netcoreapp3.1\Vat.AssemblyInfo.cs
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\obj\Debug\netcoreapp3.1\Vat.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\obj\Debug\netcoreapp3.1\Vat.dll
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\obj\Debug\netcoreapp3.1\Vat.pdb
+C:\Users\HP\source\repos\FunktionalPrograminf\Vat\obj\Debug\netcoreapp3.1\Vat.genruntimeconfig.cache

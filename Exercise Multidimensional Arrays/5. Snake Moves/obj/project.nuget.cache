@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R7stfUDWvQWwKRFZX8r2D0CzolSGVkNj4VK76uKr/ReCFQUUyTJw0N8OlIeRp6PaXd5DpwOkNDzJR2QoZS1nNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercise Multidimensional Arrays\\5. Snake Moves\\5. Snake Moves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6DnOO7KQdU5fRcRqwWbd2jmxHKd/nSe3QprJKAIjZogWArfcT08T9FLvGJVeA0e+uQRE8mRUzSGWTHTl3U5jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercise Multidimensional Arrays\\1. Diagonal Difference\\1. Diagonal Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

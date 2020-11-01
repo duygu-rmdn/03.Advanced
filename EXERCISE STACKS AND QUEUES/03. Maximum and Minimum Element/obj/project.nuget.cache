@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtpmhnwU02Ec5FhZ4TsTaHtO7qD7Fe0Q5SeuTlLQ1aG7YaU2CaycqWQTMRJ6cRhuB4b13+5Qhw+1tiGhpdk4xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXERCISE STACKS AND QUEUES\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

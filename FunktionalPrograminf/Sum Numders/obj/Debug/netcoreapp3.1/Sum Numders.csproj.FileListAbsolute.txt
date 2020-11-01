@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\bin\Debug\netcoreapp3.1\Sum Numders.exe
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\bin\Debug\netcoreapp3.1\Sum Numders.deps.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\bin\Debug\netcoreapp3.1\Sum Numders.runtimeconfig.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\bin\Debug\netcoreapp3.1\Sum Numders.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\bin\Debug\netcoreapp3.1\Sum Numders.dll
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\bin\Debug\netcoreapp3.1\Sum Numders.pdb
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\obj\Debug\netcoreapp3.1\Sum Numders.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\obj\Debug\netcoreapp3.1\Sum Numders.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\obj\Debug\netcoreapp3.1\Sum Numders.AssemblyInfo.cs
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\obj\Debug\netcoreapp3.1\Sum Numders.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\obj\Debug\netcoreapp3.1\Sum Numders.dll
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\obj\Debug\netcoreapp3.1\Sum Numders.pdb
+C:\Users\HP\source\repos\FunktionalPrograminf\Sum Numders\obj\Debug\netcoreapp3.1\Sum Numders.genruntimeconfig.cache

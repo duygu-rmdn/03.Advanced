@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+L2/SsxRn+rmrOasoJT/AAjZnWzFGB6vf9M/BQpnsgIQTQ6DqL2uDXSiPzgTBeozAk1E1u2Y6QA6hHdo7uvC6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXERCISE STACKS AND QUEUES\\08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

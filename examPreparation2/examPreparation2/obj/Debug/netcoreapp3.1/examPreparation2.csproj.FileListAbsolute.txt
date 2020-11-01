@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\obj\Debug\netcoreapp3.1\examPreparation2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\obj\Debug\netcoreapp3.1\examPreparation2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\obj\Debug\netcoreapp3.1\examPreparation2.AssemblyInfo.cs
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\obj\Debug\netcoreapp3.1\examPreparation2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\bin\Debug\netcoreapp3.1\examPreparation2.exe
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\bin\Debug\netcoreapp3.1\examPreparation2.deps.json
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\bin\Debug\netcoreapp3.1\examPreparation2.runtimeconfig.json
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\bin\Debug\netcoreapp3.1\examPreparation2.runtimeconfig.dev.json
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\bin\Debug\netcoreapp3.1\examPreparation2.dll
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\bin\Debug\netcoreapp3.1\examPreparation2.pdb
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\obj\Debug\netcoreapp3.1\examPreparation2.dll
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\obj\Debug\netcoreapp3.1\examPreparation2.pdb
+C:\Users\HP\source\repos\examPreparation2\examPreparation2\obj\Debug\netcoreapp3.1\examPreparation2.genruntimeconfig.cache

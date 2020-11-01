@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhYOvN/cwlIiMTVclivJteCDKil3ovRyF1LdXNOe//duOb+wJBOhm5uflf0q7NXPXvAhw4XX59QxSvVjlrDmLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\examPreparation2\\examPreparation2\\examPreparation2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

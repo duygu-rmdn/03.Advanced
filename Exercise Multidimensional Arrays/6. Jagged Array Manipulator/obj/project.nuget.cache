@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hA/24qMThpKWmvqy20r/73opyjbGMlVrCcfBCfyS5z//24kT4BCeYiLtMNwKeFNaMNDp8y3XwFuJMGLz464GVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercise Multidimensional Arrays\\6. Jagged Array Manipulator\\6. Jagged Array Manipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

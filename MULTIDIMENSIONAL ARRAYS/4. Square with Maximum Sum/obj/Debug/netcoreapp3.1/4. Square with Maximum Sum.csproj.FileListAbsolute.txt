@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\bin\Debug\netcoreapp3.1\4. Square with Maximum Sum.exe
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\bin\Debug\netcoreapp3.1\4. Square with Maximum Sum.deps.json
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\bin\Debug\netcoreapp3.1\4. Square with Maximum Sum.runtimeconfig.json
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\bin\Debug\netcoreapp3.1\4. Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\bin\Debug\netcoreapp3.1\4. Square with Maximum Sum.dll
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\bin\Debug\netcoreapp3.1\4. Square with Maximum Sum.pdb
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\obj\Debug\netcoreapp3.1\4. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\obj\Debug\netcoreapp3.1\4. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\obj\Debug\netcoreapp3.1\4. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\obj\Debug\netcoreapp3.1\4. Square with Maximum Sum.dll
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\obj\Debug\netcoreapp3.1\4. Square with Maximum Sum.pdb
+C:\Users\HP\source\repos\MULTIDIMENSIONAL ARRAYS\4. Square with Maximum Sum\obj\Debug\netcoreapp3.1\4. Square with Maximum Sum.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yC8T6ZtqCnVnJuI2A6eLchJS8sQPm0xNc1hzL+dUQw+e4sM+S4+3m8tvYwqr7DAbKKuv5iu/ZQxywbiYQkv98w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Class\\StartUp\\SoftUniParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kasla/Z2um6XGw4sW6KKDFZSxiKGmqLwlQDlMTdI4ubXOnXNOSYocSgJ8Xos8v4jQuYbadhG4BhMo0eLYGhsSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercises Sets and Dictionaries Advanced\\Problem 1. Unique Usernames\\Problem 1. Unique Usernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

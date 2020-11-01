@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lW1RG9uk3hxfgLb//dsa8ExTqoo7YhR1KqGhbr51+CVulYhz0GMJrEIUyj7+WkCTKqTZmxMyMkaqu/YBuRyBVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXERCISE STACKS AND QUEUES\\06. Songs Queue\\06. Songs Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

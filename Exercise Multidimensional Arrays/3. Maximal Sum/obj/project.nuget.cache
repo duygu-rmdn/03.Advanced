@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+Xg9ur4ogQe/LiOEiwKjyOFgLLrA0vGqGF/LvdJ+Hzj+i+SlU8goomR8rGfP8cyK71ru47A9BawNlSey6lHAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercise Multidimensional Arrays\\3. Maximal Sum\\3. Maximal Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
