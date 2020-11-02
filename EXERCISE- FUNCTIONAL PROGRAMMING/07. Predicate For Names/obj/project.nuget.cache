@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltLL27tBOmSaxMfytAM6zjqyZoO5xlRAYx20YvVjt7QKl5ZFzIAqiSPn7nMDdRKWA3mT0LYwvNHUiUVL6oIjXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Advanced\\EXERCISE- FUNCTIONAL PROGRAMMING\\07. Predicate For Names\\07. Predicate For Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

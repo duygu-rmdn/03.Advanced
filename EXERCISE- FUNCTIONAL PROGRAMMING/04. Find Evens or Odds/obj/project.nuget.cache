@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUlzNSqXIG+XmcJoXnJ86M7jku+as66/zfek1AitvOIMk6pScPE6D5cBsr/gqb6BndQHH4TEMX9S5/xdY2cbLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Advanced\\EXERCISE- FUNCTIONAL PROGRAMMING\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

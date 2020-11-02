@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQrIuhfr65db/H2RS3BrORg94kx18ziHXoc49xuyrtMr+5KNjK+brnnHKwCtRFy/9Nj0KIYjm/FFY5q3dJ96uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Advanced\\EXERCISE- FUNCTIONAL PROGRAMMING\\03. Custom Min Function\\03. Custom Min Function.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

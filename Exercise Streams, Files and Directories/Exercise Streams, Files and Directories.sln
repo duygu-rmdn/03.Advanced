@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{A8A9B371-1E95-4035-9C0C-151BA9C4297D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{A8A9B371-1E95-4035-9C0C-151BA9C4297D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Even Lines", "1. Even Lines\1. Even Lines.csproj", "{44F1FDD5-2D59-41DD-9495-6FF833C2FBA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Even Lines", "1. Even Lines\1. Even Lines.csproj", "{44F1FDD5-2D59-41DD-9495-6FF833C2FBA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Line Numbers", "2. Line Numbers\2. Line Numbers.csproj", "{DA9D6042-AF92-49BA-A870-E86E2DD656AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Line Numbers", "2. Line Numbers\2. Line Numbers.csproj", "{DA9D6042-AF92-49BA-A870-E86E2DD656AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Copy Binary File", "4. Copy Binary File\4. Copy Binary File.csproj", "{974B9D6B-3D9C-40D5-A136-5C20B93439AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Copy Binary File", "4. Copy Binary File\4. Copy Binary File.csproj", "{974B9D6B-3D9C-40D5-A136-5C20B93439AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

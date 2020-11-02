@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.exe
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.deps.json
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.runtimeconfig.json
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.dll
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.pdb
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.AssemblyInfo.cs
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.dll
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.pdb
+C:\Users\HP\source\repos\Advanced\Exercise Streams, Files and Directories\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.genruntimeconfig.cache

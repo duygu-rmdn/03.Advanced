@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NX218wk0xQsD7KqfR7UTBPVt2YnICjc9/R2u/SXOVLcHEbixoHABXvBALj+/Ayabs44zkvQQ/BD6Bb0/p9Y/Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Advanced\\EXERCISE- FUNCTIONAL PROGRAMMING\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
