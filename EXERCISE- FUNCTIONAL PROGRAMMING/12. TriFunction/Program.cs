@@ -18,6 +18,18 @@ namespace _12._TriFunction
             string result = predicate(peoples, n, getSum);
             Console.WriteLine(result);
         }
-        
+        //static string GetName(List<string> people, int n, Func<string, int> func)
+        //{
+        //    string res = null;
+
+        //    foreach (var person in people)
+        //    {
+        //        if (func(person) >= n)
+        //        {
+        //            res = person;
+        //        }
+        //    }
+        //    return res;
+        //}
     }
 }
