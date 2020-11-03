@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Find Evens or Odds", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Applied Arithmetics", "05. Applied Arithmetics\05. Applied Arithmetics.csproj", "{A0C98751-4B4D-40CD-B557-5802F7BB4648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reverse And Exclude", "06. Reverse And Exclude\06. Reverse And Exclude.csproj", "{EB5B3E86-AA3B-4502-BA36-88AC71E28E3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Reverse And Exclude", "06. Reverse And Exclude\06. Reverse And Exclude.csproj", "{EB5B3E86-AA3B-4502-BA36-88AC71E28E3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Predicate For Names", "07. Predicate For Names\07. Predicate For Names.csproj", "{4E22435B-3346-4988-A422-E703E256AF30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Predicate For Names", "07. Predicate For Names\07. Predicate For Names.csproj", "{4E22435B-3346-4988-A422-E703E256AF30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Custom Comparator", "08. Custom Comparator\08. Custom Comparator.csproj", "{BD9C64E2-A997-4F78-B449-B5F0FBDFABB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Custom Comparator", "08. Custom Comparator\08. Custom Comparator.csproj", "{BD9C64E2-A997-4F78-B449-B5F0FBDFABB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. The Party Reservation Filter Module", "11. The Party Reservation Filter Module\11. The Party Reservation Filter Module.csproj", "{3CE6C054-4143-4506-A4EA-C9F22C7F785E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{BD9C64E2-A997-4F78-B449-B5F0FBDFABB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD9C64E2-A997-4F78-B449-B5F0FBDFABB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD9C64E2-A997-4F78-B449-B5F0FBDFABB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE6C054-4143-4506-A4EA-C9F22C7F785E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE6C054-4143-4506-A4EA-C9F22C7F785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE6C054-4143-4506-A4EA-C9F22C7F785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE6C054-4143-4506-A4EA-C9F22C7F785E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
