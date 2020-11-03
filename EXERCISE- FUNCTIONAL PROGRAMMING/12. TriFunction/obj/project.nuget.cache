@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HR5oieMaXL82rJHx3snrXGRfjKRI4vsPlcrhLzuetGWoo2L/L8ZglSB2BRYXPIvK/QklSlE7nmq+DDC10xwF0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Advanced\\EXERCISE- FUNCTIONAL PROGRAMMING\\12. TriFunction\\12. TriFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
