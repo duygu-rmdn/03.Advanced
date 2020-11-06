@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkDicSzO0cxz8CPO1jtVQZvtghLEOc9qV2g8SYA/AEEclBcmeOXLgtFjwszCSfuW6fo+YOWBXB/+KQoOeIjpbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Custom Doubly Linked List\\Custom Doubly Linked List\\Custom Doubly Linked List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
