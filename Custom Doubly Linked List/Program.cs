@@ -8,11 +8,16 @@ namespace Custom_Doubly_Linked_List
         {
             LinkedList list = new LinkedList();
 
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 10; i++)
             {
                 list.AddHead(new Node(i));
             }
             list.PrintList();
+            //Console.WriteLine($"Poped: {list.Pop().Value}");
+            //Console.WriteLine($"Poped: {list.Pop().Value}");
+            //Console.WriteLine($"Poped: {list.Pop().Value}");
+            //Console.WriteLine($"Poped: {list.Pop().Value}");
+            list.ReversePrintList();
         }
     }
 }

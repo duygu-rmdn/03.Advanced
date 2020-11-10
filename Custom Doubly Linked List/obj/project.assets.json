@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Custom Doubly Linked List\\Custom Doubly Linked List\\Custom Doubly Linked List.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Advanced\\Custom Doubly Linked List\\Custom Doubly Linked List.csproj",
       "projectName": "Custom Doubly Linked List",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Custom Doubly Linked List\\Custom Doubly Linked List\\Custom Doubly Linked List.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Advanced\\Custom Doubly Linked List\\Custom Doubly Linked List.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Custom Doubly Linked List\\Custom Doubly Linked List\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Advanced\\Custom Doubly Linked List\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

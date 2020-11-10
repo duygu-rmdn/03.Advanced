@@ -14,5 +14,7 @@ namespace Custom_Doubly_Linked_List
 
         public Node Next { get; set; }
 
+        public Node Previous { get; set; }
+
     }
 }
