@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>IMPLEMENTING_STACK_AND_QUEUE</RootNamespace>
+  </PropertyGroup>
+
+</Project>
