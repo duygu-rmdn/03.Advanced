@@ -27,20 +27,29 @@ namespace Custom_Doubly_Linked_List
             return list.ToArray();
         }
 
-        public bool Remove(int value)
+        public bool Contains(int value)
         {
-            Node curNode = Head;
-            while (curNode != null)
+            bool isFounf = false;
+            ForEach(node =>
             {
-                if (curNode.Value == value)
+                if (node.Value == value)
                 {
-                    curNode.Previous.Next = curNode.Next;
-                    curNode.Next.Previous = curNode.Previous;
-                    return true;
+                    isFounf = true;
                 }
-                curNode = curNode.Next;
-            }
-            return false;
+            });
+            return isFounf;
+            //Node curNode = Head;
+            //while (curNode != null)
+            //{
+            //    if (curNode.Value == value)
+            //    {
+            //        curNode.Previous.Next = curNode.Next;
+            //        curNode.Next.Previous = curNode.Previous;
+            //        return true;
+            //    }
+            //    curNode = curNode.Next;
+            //}
+            //return false;
         }
 
         public void AddHead(Node newHead)
