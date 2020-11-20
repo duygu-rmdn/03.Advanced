@@ -11,13 +11,23 @@ namespace IMPLEMENTING_STACK_AND_QUEUE
             for (int i = 1; i <= 5; i++)
             {
                 myCustomStack.Push(i);
+                Console.WriteLine(myCustomStack.Peek());
             }
-            for (int i = 1; i <= 5; i++)
-            {
-                Console.WriteLine(myCustomStack.Pop()); 
-            }
+            Console.WriteLine("------------------");
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    Console.WriteLine(myCustomStack.Pop()); 
+            //}
+            //Console.WriteLine("-------");
+            //myCustomStack.ForEach(e=>
+            //{
+            //    Console.WriteLine(e);
+            //});
+            myCustomStack.ForEach(Console.WriteLine);
+            //myCustomStack.Peek();
 
 
+            //-------------------------------------------
 
 
             //CustomList myCustomList = new CustomList();

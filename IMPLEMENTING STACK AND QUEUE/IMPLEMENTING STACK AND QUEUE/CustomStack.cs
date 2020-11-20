@@ -37,6 +37,24 @@ namespace IMPLEMENTING_STACK_AND_QUEUE
             return poppedItem;
         }
 
+        public int Peek()
+        {
+            if (this.Count == 0)
+            {
+                throw new InvalidOperationException(EMPTY_STACK_EXC_MSG);
+            }
+            int lastItem = this.items[this.Count - 1];
+            return lastItem;
+        }
+
+        public void ForEach(Action<int> action)
+        {
+            for (int i = 0; i < this.Count; i++)
+            {
+                action(this.items[i]);
+            }
+        }
+
         private void Resize()
         {
             int[] copy = new int[this.items.Length * 2];
