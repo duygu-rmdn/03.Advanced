@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>EXERCISE__GENERICS</RootNamespace>
+    <RootNamespace>01. Generic Box of String</RootNamespace>
   </PropertyGroup>
 
 </Project>
